@@ -24,6 +24,8 @@ print(text)
 # Comment
 family = int(input('How many people are in your family: '))
 print(f'There are {family} in my family.')
+people = 'you have ' + family + ' family members.'
+print(people)
 
 
 # Task 4
